@@ -1,20 +1,20 @@
 # Mahziar Dehghan
 
-سلام! من مهزیار دهقان هستم، توسعه دهنده بک اند با دات نت.
+Hello! I'm Mahziar Dehghan, a back-end developer with .NET.
 
-## درباره من
-من بیش از سه سال سابقه کاری در زمینه توسعه نرم افزار دارم و علاقمند به مباحث جدید و معماری نرم افزار هستم.
+## About Me
+I have over three years of experience in software development and I'm passionate about new topics and software architecture.
 
-## تخصص‌ها
-- HTML
-- CSS
-- JavaScript
-- C#
-- ASP.NET Core
-- Vue.js
+## Skills
+-  HTML
+-  CSS
+-  JavaScript
+-  C#
+-  ASP.NET Core
+-  Vue.js
 
-## اطلاعات تماس
-<!--- [LinkedIn](https://www.linkedin.com/in/mahziar-dehghan/)--->
-- [ایمیل](mailto:mahziyar138006@gmail.com)
+## Contact Information
+<!---[LinkedIn](https://www.linkedin.com/in/mahziar-dehghan/)--->
+- [Email](mailto:mahziyar138006@gmail.com)
 
-از اینکه از ریپازیتوری من بازدید می‌کنید متشکرم!
+Thank you for visiting my repository!
