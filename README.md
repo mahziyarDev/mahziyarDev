@@ -1,16 +1,20 @@
-### Hi there 👋
+# Mahziar Dehghan
 
-<!--
-**mahziyarDev/mahziyarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+سلام! من مهزیار دهقان هستم، توسعه دهنده بک اند با دات نت.
 
-Here are some ideas to get you started:
+## درباره من
+من بیش از سه سال سابقه کاری در زمینه توسعه نرم افزار دارم و علاقمند به مباحث جدید و معماری نرم افزار هستم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## تخصص‌ها
+- HTML
+- CSS
+- JavaScript
+- C#
+- ASP.NET Core
+- Vue.js
+
+## اطلاعات تماس
+<!--- [LinkedIn](https://www.linkedin.com/in/mahziar-dehghan/)--->
+- [ایمیل](mailto:mahziyar138006@gmail.com)
+
+از اینکه از ریپازیتوری من بازدید می‌کنید متشکرم!
