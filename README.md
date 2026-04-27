@@ -5,7 +5,7 @@
 <h3 align="center">⚡ Back-end Architect | .NET Specialist | Modular Design Enthusiast ⚡</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahziar-dehghan&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mahziyarDev&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <a href="https://mahziyardev.ir">
     <img src="https://img.shields.io/badge/Website-mahziyardev.ir-blue?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
