@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=2D9EF7&center=true&vCenter=true&width=600&lines=Mahziar+Dehghan;Back-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=2D9EF7&center=true&vCenter=true&width=600&lines=Mahziyar+Dehghan;Back-end+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">⚡ Back-end Architect | .NET Specialist | Modular Design Enthusiast ⚡</h3>
