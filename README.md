@@ -20,7 +20,7 @@
 
 With **4+ years** of professional coding experience, I serve as a **Back-end Developer** and **Module Responsible** in various projects. My passion lies in building scalable, maintainable, and clean systems.
 
-- 🧩 **Current Role**: Back-end Developer & Module Lead
+- 🧩 **Role & Responsibilities**: Back-end Developer & Module Lead
 - 🎯 **Focus**: Clean Architecture, Domain-Driven Design, Modular Monoliths
 - 🚀 **Interested in**: Microservices architecture, Distributed systems, Event-driven design
 - 🌍 **Portfolio**: [mahziyardev.ir](https://mahziyardev.ir)
